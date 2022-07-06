@@ -12,7 +12,17 @@ div>a{
     font-size: 1.25em;
     background-color: cornflowerblue;
     color:white;
+    margin-bottom: 5px;
     border-radius: 5px;
+}
+
+ul#hlist{
+    list-style: none;
+}
+
+ul#hlist li{
+    display: inline;
+    margin-left: 100px;
 }
 
 li>a{
